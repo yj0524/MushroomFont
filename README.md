@@ -14,8 +14,8 @@
 - 폰트의 이미지를 훼손하는 행위 외 모든 곳에 활용 가능합니다.
 
 ## 버그 또는 수정 요청
-Discord : yj0524_kr
-E-mail : admin@mushtle.co.kr
+- Discord : yj0524_kr
+- E-mail : admin@mushtle.co.kr
 
 
 
