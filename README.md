@@ -1,4 +1,7 @@
 # MushroomFont
+## 미리 보기
+![FontPreview.png](./bin/FontPreview.png)
+
 ## 만든 의도
 - 그냥 겁내 열받으라고 만들었습니다.
 
