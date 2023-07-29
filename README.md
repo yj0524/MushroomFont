@@ -1,7 +1,7 @@
 # MushroomFont
 ## 사용법
 1. Releases에서 폰트를 다운로드받습니다.
-2. 폰트(TTF 또는 OTF)를 설치합니다.
+2. 폰트 (TTF 파일) 를 설치합니다.
 3. MushroomFont 또는 버섯폰트를 찾아 사용합니다.
 
 ## License
