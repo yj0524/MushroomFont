@@ -6,9 +6,22 @@
 - 그냥 겁내 열받으라고 만들었습니다.
 
 ## 사용법
+### 로컬에 설치
 - Releases에서 폰트를 다운로드받습니다.
 - 폰트 (TTF 파일) 를 설치합니다.
 - MushroomFont 또는 버섯폰트를 찾아 사용합니다.
+
+### 웹폰트
+- CSS
+```css
+* {
+    font-family: "MushroomFont";
+    src: url("https://github.com/yj0524/MushroomFont/releases/latest/download/MushroomFont-Regular.woff") format("woff"),
+        url("https://github.com/yj0524/MushroomFont/releases/latest/download/MushroomFont-Regular.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+}
+```
 
 ## License
 - 상업적 용도로 이용 가능합니다.
